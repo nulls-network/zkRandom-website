@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'zkRandom.io',
+  tagline: 'Genarate random value for blockchain.',
+  url: 'https://zkRandom.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'nulls-network', // Usually your GitHub org/user name.
+  projectName: 'zkRandom-website', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'zkRandom.io',
       logo: {
-        alt: 'My Site Logo',
+        alt: `We're ...`,
         src: 'img/logo.svg',
       },
       links: [
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/nulls-network/zkRandom-website',
           label: 'GitHub',
           position: 'right',
         },
