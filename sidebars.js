@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    介绍: ['introduce', 'flow'],
+    接入: ['createProject', 'dappContract', 'secondSubmit'],
+    治理: ['stake', 'punish'],
   },
 };
