@@ -26,7 +26,7 @@ sidebar_label: 角色介绍
 
 # 工作流程
 
-![alt 属性文本](https://github.com/nulls-network/zkRandom-website/blob/main/static/img/flow.png)
+![alt 属性文本](https://raw.githubusercontent.com/nulls-network/zkRandom-website/main/static/img/flow.png)
 
 1. DAPP开发商向ZKRandom服务商质押Token，注册项目
 2. DAPP用户对自己的业务数据进行签名，然后将业务数据和签名凭证发放给ZKRandom合约进行预登记;ZKRandom合约验证业务 Hash、随机数凭证的有效性，验证通过后生成requestKey，发出NewMessage事件
